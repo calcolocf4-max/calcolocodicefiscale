@@ -3,4 +3,4 @@ User-agent: *
 Allow: /
 
 # Sitemaps
-Sitemap: https://calcolocodicefiscalee.com/sitemap.xml
+Sitemap: https://calcolocf4-max.github.io/calcolocodicefiscale/
