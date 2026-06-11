@@ -2,17 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <!-- Home Page / Main Calculator Tool -->
     <url>
-        <loc>https://calcolocodicefiscalee.com/</loc>
+        <loc>hhttps://calcolocf4-max.github.io/calcolocodicefiscale/</loc>
         <lastmod>2026-06-11</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
     
-    <!-- Verification Tool -->
-    <url>
-        <loc>https://calcolocodicefiscalee.com/verifica-codice-fiscale/</loc>
-        <lastmod>2026-06-11</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
 </urlset>
